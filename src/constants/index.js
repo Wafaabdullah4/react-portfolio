@@ -57,12 +57,12 @@ export const PROJECTS = [
        link: "https://wafa-films.vercel.app/",
   },
   {
-    title: "Blogging Platform",
+    title: "News App Platform",
     image: project4,
     description:
-      "A comprehensive blogging platform that allows users to create, publish, and manage content, featuring rich text editing, interactive comments, and user profiles.",
+     "A dynamic and responsive news platform that delivers real-time news updates across multiple categories like Technology, Business, Health, Sports, and Entertainment. Built with React and Bootstrap, this platform fetches data from public news APIs, providing a seamless and user-friendly experience for users to stay informed on current events.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-    link: "#"
+    link: "https://news-app-react-seven-alpha.vercel.app/"
   },  
 ];
 
