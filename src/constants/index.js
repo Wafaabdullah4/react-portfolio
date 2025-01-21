@@ -62,7 +62,7 @@ export const PROJECTS = [
     description:
      "A dynamic and responsive news platform that delivers real-time news updates across multiple categories like Technology, Business, Health, Sports, and Entertainment. Built with React and Bootstrap, this platform fetches data from public news APIs, providing a seamless and user-friendly experience for users to stay informed on current events.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-    link: "https://news-app-react-seven-alpha.vercel.app/"
+    link: "https://news-app-react-wheat.vercel.app/"
   },  
 ];
 
